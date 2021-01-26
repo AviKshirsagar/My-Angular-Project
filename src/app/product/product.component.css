@@ -1,0 +1,10 @@
+.product{
+    border: 1px solid green;
+    padding: 10px;
+    margin: 10px;
+    background-color: greenyellow;
+}
+.product:hover{
+    background-color: pink;
+    border: 1px solid red;
+}
